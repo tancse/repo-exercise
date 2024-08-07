@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <conio.h>
+void main(){
+int glob =0;
+void function(int a){
+int temp, c;
+temp=a;
+a= glob;
+c=a;
+}
+}
